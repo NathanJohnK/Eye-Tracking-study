@@ -1,1 +1,2 @@
-Not to self: It could easily be construed that you wrote the Eye tracking bit of this code rather than the middle bit.
+This repository contains the python script for a combined eye tracking and response time experiment.
+Lines 84 to 1063, with integration, should run and collect response time measures in PsychoPy. 
